@@ -6,4 +6,4 @@ Includes dungeon exploration and pokemon-style dialog.
 
 Enemy uses shortest path A-Star algorithm
 
-Written in Java
+Written in Java, saved as IntelliJ project
