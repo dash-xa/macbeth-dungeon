@@ -4,10 +4,10 @@
 
 ## Arcade 2d dungeon crawler built on Shakespeare's 'Macbeth'.
 
-## Gameplay Instructions
+### Gameplay Instructions
 - Spacebar is used throughout game as the action key. Use it to skip dialogues and fire swords
 
-## Game features
+### Game features
 - Includes dungeon exploration, boss fights with characters from the play, companions (Ophelia follows you around), and pokemon-style dialog.
 - Enemy uses shortest path A-Star algorithm
 
