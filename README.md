@@ -1,6 +1,6 @@
 # macbeth-dungeon
 
-**Whole repo must be downloaded for game do run properly**
+**NOTE: Whole repo must be downloaded for game do run properly**
 
 ## Arcade 2d dungeon crawler built on Shakespeare's 'Macbeth'.
 
