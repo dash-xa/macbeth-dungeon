@@ -11,6 +11,8 @@
 - Includes dungeon exploration, boss fights with characters from the play, companions (Ophelia follows you around), and pokemon-style dialog.
 - Enemy uses shortest path A-Star algorithm
 
+![](1.png)
+
 Written in Java, saved as IntelliJ project
 
 
